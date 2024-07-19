@@ -3,6 +3,8 @@ import pandas as pd
 import plotly.express as px
 from helper import *
 
+st.set_page_config(layout='wide')
+
 # Title
 with st.container(border=False):
     col_t1, col_t2 = st.columns([1/3, 2/3])
