@@ -63,6 +63,7 @@ Because of the variety of fields available, I found myself with a lot of freedom
 - **Length of stay**: By showing which age groups spend the most time in the hospital, various hospital services can improve speed and response times for more vulnerable age groups accordingly.
 - **Encounter cost**: By showing which encounter classes cost the most, related hospital services can manage their costs accordingly.
 - **Insurance coverage**: By showing which procedures are most costly for non-insured patients, insurance relations can work with providers on improving coverage for these procedures.
+![image](https://github.com/user-attachments/assets/ff2f9629-ed02-4077-ba91-848d1f650fe9)
 
 ## Color scheme
 Overall this report uses a simple (teal) color scheme based on the MGH logo. In line with the design simplicity, all graphs only use two colors - the darker color highlights key information, while all other elements use a lighter color.
